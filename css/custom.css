@@ -1,4 +1,10 @@
-
+img.keynote {
+	border: thin solid gray;
+	width: 100px;
+	float: left;
+	padding: 1px;
+	margin-right: 10px;
+}
 
 .jumbotron {
 	
