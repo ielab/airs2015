@@ -38,7 +38,11 @@ h5 {
 	font-weight: 600;
 }
 
-footer img {
+footer img, .sponsor img {
 	padding-right: 40px;
 	height: 55px;
+}
+
+.sponsor p {
+	margin: 30px 0px 30px 0px;
 }
